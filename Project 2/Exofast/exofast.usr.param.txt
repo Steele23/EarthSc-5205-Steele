@@ -1,0 +1,35 @@
+\ 
+\ Chi-Squared Parameter Values for EXOFAST Calculation
+\ 
+\ Title: HD189733b-chi
+\ Date : Fri Feb 11 18:52:47 2022
+\ Fit Type: CHI2
+\ 
+| symbol          | parameter                               | units                   | value           |
+| char            | char                                    | char                    | double          |
+ M*                Stellar Mass                              Msun                              0.840167 
+ R*                Stellar Radius                            Rsun                              0.852256 
+ L*                Stellar Luminosity                        Lsun                              0.425001 
+ rho*              Stellar Density                           cgs                               1.915549 
+ logg*             Stellar Surface Gravity                   cgs                               4.490000 
+ Teff              Effective Temperature                     K                              5052.000000 
+ FeH               Metallicity                               none                             -0.030000 
+ e                 Eccentricity                              none                              0.019434 
+ omega             Argument of Periastron                    degrees                          83.300227 
+ P                 Period                                    days                              2.218666 
+ a                 Semi-Major Axis                           AU                                0.031406 
+ Teq               Equilibrium Temperature                   K                              1268.850064 
+ Fave              Incident Flux                             10^9 ergs s^-1 cm^-2              0.587694 
+ ecosw             e cosine omega                            none                              0.002267 
+ esinw             e sine omega                              none                              0.019301 
+ TP                Time of Periastron                        BJD                         2453935.531264 
+ K                 RV Semi-Amplitude                         m/s                             202.283082 
+ Mpsini            Minimum Mass                              Mj                                1.156557 
+ Mp/M*             Mass Ratio                                none                              0.001314 
+ gamma             Systemic Velocity                         m/s                             -11.804418 
+ TC                Time of Transit                           BJD                         2453935.570976 
+ T14               Total Duration                            days                              0.087628 
+ PTG               A Priori Transit Prob                     none                              0.128644 
+ TS                Time of Eclipse                           BJD                         2453934.464847 
+ PS                A Priori Non-Grazing Eclipse Prob         none                              0.091077 
+ PSG               A Priori Eclipse Prob                     none                              0.123772 
